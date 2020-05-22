@@ -6,6 +6,6 @@ React native is power full and well structured framework. It actually convincing
 Easy to learn and easy to understand, JSX syntax actually a good approach to designing the views.
 Its pretty easy to work with react native repo. I am on my way to learning advanced concepts....never stopes.
 <p align="center">
-  <img src="https://github.com/AdarshEpic/TICTACTOE/blob/master/TICTACTOE%20geme.png?raw=true" width=400 />
+  <img src="https://github.com/AdarshEpic/TICTACTOE/blob/master/TICTACTOE.png?raw=true" width=400 />
  </p>
  
